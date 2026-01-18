@@ -5,7 +5,7 @@
   <title>Sustainable Copper Water Bottles in the USA – 2025 Resource Hub</title>
 
   <!-- 🔴 GOOGLE SEARCH CONSOLE VERIFICATION -->
-  <meta name="google-site-verification" content="XXXXXXXXXXXX" />
+  <meta name="google-site-verification" content="kt9slRr0cUhNBZ0YzY825oERFz8VZDIPC46ehPmvc3k" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="A trusted resource hub on sustainable copper water bottles, eco-friendly hydration, and conscious living in the USA.">
